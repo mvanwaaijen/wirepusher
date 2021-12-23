@@ -1,3 +1,5 @@
 .env 
 github.repo 
 *.exe 
+bin\
+Makefile
